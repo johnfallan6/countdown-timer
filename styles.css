@@ -6,7 +6,8 @@
 }
 
 body {
-  background-image: url(https://images.pexels.com/photos/580679/pexels-photo-580679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-image: url("Eclipse.png");
+  /* background-image: url(https://images.pexels.com/photos/580679/pexels-photo-580679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -24,13 +25,15 @@ body {
 h1 {
   font-weight: normal;
   font-size: 60px;
-  margin: -250px 0 0px;
+  margin: -150px 0 0px;
+  padding-top: 100px;
 }
 
 h2 {
   font-weight: normal;
   margin-bottom: 150px;
   letter-spacing: 1px;
+  padding-bottom: 200px;;
 }
 
 .countdown {
