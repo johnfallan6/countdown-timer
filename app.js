@@ -5,7 +5,7 @@ const seconds = document.getElementById("seconds");
 
 const now = new Date().getTime();
 
-const eventTime = new Date("April 8, 2024 12:17:13");
+const eventTime = new Date("April 8, 2024 12:17:03");
 
 // Test Time:
 // const eventTime = new Date("January 15, 2024 15:30:13");
